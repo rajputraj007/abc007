@@ -33,7 +33,7 @@ public class StudentList {
         //print list
         for(Student s:studList)
         {
-            System.out.println(s.getStudentName());
+            System.out.print(s.getStudentName());
         }
     }
 

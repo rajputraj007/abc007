@@ -3,7 +3,7 @@ package studentlist;
 
 /**
  *
- * @author Megha Patel 
+ * @author Raj Rajput
  */
 public class Student { 
     private String studentName;
